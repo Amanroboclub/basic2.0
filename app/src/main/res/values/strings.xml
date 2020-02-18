@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="space" />
+    <string name="mai_mc_hu_jo_isme_aya">Mai mc hu jo isme aya</string>
+</resources>
